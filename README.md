@@ -7,4 +7,4 @@ A simple HTML/CSS practice project: a styled conference schedule table created f
 
 ![website demo](image.png)
 
--- XaiBao
+~ XaiBao
